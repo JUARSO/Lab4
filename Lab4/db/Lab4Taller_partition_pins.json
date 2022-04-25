@@ -1,0 +1,65 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "win[0]",
+					"strict" : false
+				},
+				{
+					"name" : "win[1]",
+					"strict" : false
+				},
+				{
+					"name" : "parejas[3]",
+					"strict" : false
+				},
+				{
+					"name" : "player1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "player2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "player1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "player2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "player1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "player2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "player1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "player2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "parejas[0]",
+					"strict" : false
+				},
+				{
+					"name" : "parejas[1]",
+					"strict" : false
+				},
+				{
+					"name" : "parejas[2]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

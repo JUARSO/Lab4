@@ -1,0 +1,15 @@
+
+State Machine - |ContadorJ1|contadorActual
+Name contadorActual.1011 contadorActual.1010 contadorActual.1001 contadorActual.1000 contadorActual.0111 contadorActual.0110 contadorActual.0101 contadorActual.0100 contadorActual.0011 contadorActual.0010 contadorActual.0001 contadorActual.0000 
+contadorActual.0000 0 0 0 0 0 0 0 0 0 0 0 0 
+contadorActual.0001 0 0 0 0 0 0 0 0 0 0 1 1 
+contadorActual.0010 0 0 0 0 0 0 0 0 0 1 0 1 
+contadorActual.0011 0 0 0 0 0 0 0 0 1 0 0 1 
+contadorActual.0100 0 0 0 0 0 0 0 1 0 0 0 1 
+contadorActual.0101 0 0 0 0 0 0 1 0 0 0 0 1 
+contadorActual.0110 0 0 0 0 0 1 0 0 0 0 0 1 
+contadorActual.0111 0 0 0 0 1 0 0 0 0 0 0 1 
+contadorActual.1000 0 0 0 1 0 0 0 0 0 0 0 1 
+contadorActual.1001 0 0 1 0 0 0 0 0 0 0 0 1 
+contadorActual.1010 0 1 0 0 0 0 0 0 0 0 0 1 
+contadorActual.1011 1 0 0 0 0 0 0 0 0 0 0 1 
