@@ -51,7 +51,7 @@ parejas[3] => Equal5.IN2
 parejas[3] => Equal6.IN2
 parejas[3] => Equal7.IN3
 parejas[3] => Equal9.IN0
-win[0] <= win.DB_MAX_OUTPUT_PORT_TYPE
-win[1] <= win.DB_MAX_OUTPUT_PORT_TYPE
+win[0] << win.DB_MAX_OUTPUT_PORT_TYPE
+win[1] << win.DB_MAX_OUTPUT_PORT_TYPE
 
 
