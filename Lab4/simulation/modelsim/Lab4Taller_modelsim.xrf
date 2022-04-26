@@ -1,9 +1,12 @@
 vendor_name = ModelSim
-source_file = 1, C:/Users/arman/Documents/1Semestre2022/Lab4/ContadorJ1.sv
-source_file = 1, C:/Users/arman/Documents/1Semestre2022/Lab4/pruebaContador.sv
-source_file = 1, C:/Users/arman/Documents/1Semestre2022/Lab4/juego.sv
-source_file = 1, C:/Users/arman/Documents/1Semestre2022/Lab4/win.sv
-source_file = 1, C:/Users/arman/Documents/1Semestre2022/Lab4/db/Lab4Taller.cbx.xml
+source_file = 1, C:/Users/J_Sol/Desktop/Lab4/Lab4/Lab4/ContadorJ1.sv
+source_file = 1, C:/Users/J_Sol/Desktop/Lab4/Lab4/Lab4/pruebaContador.sv
+source_file = 1, C:/Users/J_Sol/Desktop/Lab4/Lab4/Lab4/juego.sv
+source_file = 1, C:/Users/J_Sol/Desktop/Lab4/Lab4/Lab4/win.sv
+source_file = 1, C:/Users/J_Sol/Desktop/Lab4/Lab4/Lab4/ContadorJ2.sv
+source_file = 1, C:/Users/J_Sol/Desktop/Lab4/Lab4/Lab4/MatrizDeJuego.sv
+source_file = 1, C:/Users/J_Sol/Desktop/Lab4/Lab4/Lab4/encontrarPareja.sv
+source_file = 1, C:/Users/J_Sol/Desktop/Lab4/Lab4/Lab4/db/Lab4Taller.cbx.xml
 design_name = win
 instance = comp, \win[0]~output , win[0]~output, win, 1
 instance = comp, \win[1]~output , win[1]~output, win, 1
